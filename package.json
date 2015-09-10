@@ -1,0 +1,14 @@
+{
+  "name": "sg-ip-refiner",
+  "version": "0.0.1",
+  "description": "ip refiner for node.js",
+  "keywords": [],
+  "author": "hwaranglee <dev@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/slogup/sg-ip-refiner.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
